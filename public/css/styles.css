@@ -1,0 +1,8 @@
+.noSubrayado:hover{
+    text-decoration: none;
+  }
+
+  .imagenObra{
+    width: 100%;
+    height: auto;
+  }
